@@ -1,5 +1,4 @@
 # Display-O-Tron 3000 IP Display
-==============================
 
 A little Raspberry PI helper which shows the IP address of each network interface on an installed [Display-O-Tron 3000] (http://shop.pimoroni.com/products/displayotron-3000).
 
