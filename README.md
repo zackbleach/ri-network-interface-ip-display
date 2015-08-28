@@ -5,6 +5,7 @@ A little Raspberry PI helper which shows the IP address of each network interfac
 
 If you have this [run on start up](https://www.raspberrypi.org/documentation/linux/usage/rc-local.md) you can plug an ethernet cable in, see the IP address, and ssh in to the Pi. Works with wifi (any network interface actually) too, so it saves you from having to configure a static IP!
 
+![R Pi without ethernet plugged in](http://img.photobucket.com/albums/v229/applerocks/IMG_20150428_213248%201.jpg)
 Enjoy!
 
 
